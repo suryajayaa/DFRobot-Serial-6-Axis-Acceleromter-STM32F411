@@ -1,0 +1,5 @@
+../Core/Usr/wt61pc.c:22:6:WT61PC_init	16	static
+../Core/Usr/wt61pc.c:30:6:WT61PC_rx_callback	24	static
+../Core/Usr/wt61pc.c:82:6:WT61PC_rx_restart	8	static
+../Core/Usr/wt61pc.c:94:16:WT61PC_checksum_calc	16	static
+../Core/Usr/wt61pc.c:103:16:to_i16	24	static
