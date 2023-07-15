@@ -99,6 +99,8 @@ int main(void)
   while (1)
   {
 	  WT61PC_rx_restart();
+	  WT61PC_tx_routine();
+	  WIT_TestFunction();
 
     /* USER CODE END WHILE */
 
